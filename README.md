@@ -23,3 +23,17 @@ The dataset used for this analysis consists of 541,909 records, representing sal
 * UnitPrice: Price per unit.
 * CustomerID: Unique identifier for each customer.
 * Country: Country where the transaction occurred.
+
+## Skills Demonstrated:
+* Data loading and manipulation using pandas
+* Data visualization using matplotlib
+* Geospatial data visualization using geopandas
+* Handling file paths and directory creation using os module
+* Data aggregation and grouping using pandas
+* Basic data cleaning and filtering
+* Calculating key performance indicators (KPIs)
+* Plotting bar charts and line charts
+* Saving visualizations to file
+* Printing formatted output
+* Basic file input/output (reading an Excel file)
+* Basic statistical analysis using numpy
